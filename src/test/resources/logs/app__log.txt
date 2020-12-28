@@ -1,0 +1,1 @@
+INFO    2020-12-01 20:49:04,147 [main] Run.logges  - This is our first log for use
